@@ -36,12 +36,12 @@ The following rules for the game are:
 
 * Open terminal (terminal 1) in chosen directory
 *  "git clone  https://github.com/ukusman/tennis-score-application"
-*  cd tennis-game-app
+*  cd tennis-score-application
  * cd server
  * npm install
  * node app.js
  * open up 2nd terminal for client
- *  cd  tennis-game-app
+ *  cd  tennis-score-application
  * cd client
  * npm install
  * npm start
