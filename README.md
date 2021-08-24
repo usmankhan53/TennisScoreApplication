@@ -16,21 +16,32 @@ The following rules for the game are:
 5. Each player play at least 3 games ,each new game can be created manually.
 6. Keep track score of all games score on leaderboard.
 
-## Techniques
+## Techniques:
+# MERN stack Application
 ### Client-side
 * ReactJS
 * React-bootstrap (CSS-framework)
-* redux
+* Redux
 
 ### Server-Side
 * NodeJS
 * Express
-* MongoDB  Could (database)
+
+### DataBase
+ *  Mongodb cloud
 
 
 ## Get started
     
 
-
-
-
+* Open terminal (terminal 1) in chosen directory
+*  "git clone  https://github.com/ukusman/tennis-score-application"
+*  cd tennis-game-app
+ * cd server
+ * npm install
+ * node app.js
+ * open up 2nd terminal for client
+ *  cd  tennis-game-app
+ * cd client
+ * npm install
+ * npm start
