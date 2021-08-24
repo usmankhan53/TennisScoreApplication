@@ -1,0 +1,23 @@
+.header-leaderboard{
+    border-bottom: 4px solid green;
+}
+
+
+  .table-head{
+      padding: 12px 10px 16px 25px;
+   
+  }
+  .p1S1{
+      margin-left: 150px;
+      margin-top: -18px;
+  }
+ .p1S2{
+     margin-left: 300px;
+ }
+ .p1S3{
+     margin-left: 450px;
+ }
+
+ .table-content{
+     padding-left: 14px;
+ }
